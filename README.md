@@ -34,7 +34,7 @@ Pins M1 and M2 are not used for keyboard.
 
 
 
-More information and the schematic from where I based my project, can be found at http://www.ccgcpu.com/2019/02/14/the-xt-part-4-adapting-a-modernish-keyboard/, where describes a PS2 to XT protocol converter.   **Please be careful** asIMHO the schematics shown in this article are a bit confusing, as I end up connecting power in the wrong way, so as a result one Arduino nano was fried and  the PS2 keyboard is broken.
+More information and the schematic from where I based my project, can be found at http://www.ccgcpu.com/2019/02/14/the-xt-part-4-adapting-a-modernish-keyboard/, where describes a PS2 to XT protocol converter.   **Please be careful** as IMHO the schematics shown in this article are a bit confusing, as I end up connecting power in the wrong way, so as a result one Arduino nano was fried and  the PS2 keyboard is broken.
 
 I first built a PS2 Mini-Din-6 female to DIN-5 male IBM XT protocol converter. As I fried my second Nano board, I decided to use the same converter and make it compatible also with the Amstrad using another adapter to connect the wires. As I did not have the 6-way Din Amstrad PC1512 keyboard connector I ended up soldering the keyboard wires directly to the motherboard. **I apologize if some of you got a heart attack after seeing this.**
 
