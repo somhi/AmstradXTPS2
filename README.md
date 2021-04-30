@@ -28,7 +28,7 @@ A Male DIN 6 connector is needed to connect to the female connector of the Amstr
 
 Follows pinout of the DIN-6 female connector of the Amstrad motherboard:
 
-![](6way-PC1512.png)
+![](images/6way-PC1512.png)
 
 Pins M1 and M2 are not used for keyboard.
 
