@@ -68,6 +68,14 @@ When I had the XT protocol converter running well, I adapted the Arduino code to
 
 
 
-**Final assembly of the adapter (pictured attached to the logic analyzer):**
+**Final assembly pictures of the adapter:**
+
+here attached with a logic analyzer
 
 ![converter](images/converter.jpg)
+
+
+
+and here full assembly connected to my [Amstrad PC1512](https://github.com/somhi/Amstrad-PC1512) motherboard:
+
+![assembly](images/assembly.jpg)
