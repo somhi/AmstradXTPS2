@@ -12,6 +12,8 @@ Please add https://github.com/techpaul/PS2KeyAdvanced Arduino library to compile
 
 I used an Arduino nano (5V) board. Any other Arduino based board can be used as far as it has 5 V logic levels as keyboard power supply and signals work at 5 V.
 
+<u>Have a look also at my personal log of the process I made to get my Amstrad PC1512 working</u> https://github.com/somhi/Amstrad-PC1512.
+
 ### Schematic and pinouts
 
 ![schematic](images/schematic.png)
