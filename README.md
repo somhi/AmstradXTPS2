@@ -68,7 +68,7 @@ When I had the XT protocol converter running well, I adapted the Arduino code to
 
 
 
-### **Final assembly pictures of the adapter:*
+### Final assembly pictures of the adapter:
 
 here attached with a logic analyzer
 
