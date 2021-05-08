@@ -52,7 +52,7 @@ I first built a PS2 Mini-Din-6 female to DIN-5 male IBM XT protocol converter. A
 
 * Arduino Nano 5V
 * DIN5 Male to Mini DIN6 PS/2 Female keyboard adapter cable (From where I get the mini-DIN-6 female, and also the DIN5 to build the converter to IBM XT protocol )
-* DIN6 Male connector 
+* DIN6 Male connector [ordered this but not tested yet](https://es.rs-online.com/web/p/conectores-din/0776280/)
 * Wires and thermo-retractil shrinking tubing 
 
 ### Protocol adaptation
